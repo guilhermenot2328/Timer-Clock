@@ -321,7 +321,7 @@ class StudyTimerApp(ctk.CTk):
         self.stop_btn.pack(side="left", padx=6)
 
     # ──────────────────────────────────────────────
-    #  ABA: Métricas
+    #  ABA: Métricas 
     # ──────────────────────────────────────────────
 
     def _build_metrics_tab(self, parent):
